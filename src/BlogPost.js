@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 // are we missing an import?
+<<<<<<< HEAD
 import Comment from './Comment.js'
+=======
+import comment from '.comment.js';
+>>>>>>> 1571ac980e5a77d26702d5d24684d94ed4c135b4
 
 export default class BlogPost extends Component {
   render() {
